@@ -1,0 +1,40 @@
+
+#pie{
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+}
+#tit1{
+    background-color: cyan;
+    text-align: center;
+}
+
+#btn1{
+    background-color: bisque;
+}
+#btn2{
+    background-color: bisque;
+}
+#btn3{
+    background-color: bisque;
+}
+.centro{
+    padding-bottom: 10px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.columna1{
+    margin-right: 10px;
+    text-align: center;
+}
+.columna3{
+    margin-left: 10px;
+    text-align: center;
+}
+#nayik{
+    width: 150px;
+    height: 150px;
+}
